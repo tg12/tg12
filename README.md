@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Kubernetes
-- 🌱 I’m currently learning Kubernetes 
+- 🔭 I’m currently working on cloud stuff
+- 🌱 I’m currently learning how to cook 
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with anything
 - 💬 Ask me about anything
