@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on cloud stuff
+- 🔭 I’m currently working on SRE/DevSecOps
 - 🌱 I’m currently learning how to cook 
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with anything
